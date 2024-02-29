@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm BHUVANESHWAR V</h1>
 <h3 align="center">I am a third-year Artificial Intelligence and Machine Learning student. Passionate about exploring the realms of AI and its applications.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwar-bhuviop&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwar-bhuviop" /> </p>
+
 
 - 🌱 I’m currently learning **Data analytics with python**
 
@@ -29,16 +31,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BHUVANESHWAR-BHUVIOP&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHUVANESHWAR-BHUVIOP&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BHUVANESHWAR-BHUVIOP&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BHUVANESHWAR-BHUVIOP&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BHUVANESHWAR-BHUVIOP&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
