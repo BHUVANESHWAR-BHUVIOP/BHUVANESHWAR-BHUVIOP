@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **bhuvivbhuvi2004@gmail.com**
 
-- 📄 Know about my experiences [Canva Design Link](https://www.canva.com/design/DAF-MH2GJwY/ypOBEjz6PhAh2qkdJpsAjQ/edit?utm_content=DAF-MH2GJwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAF-MH2GJwY/ypOBEjz6PhAh2qkdJpsAjQ/edit?utm_content=DAF-MH2GJwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" width="90" height="20">
+</a>
+
+
 
 - ⚡ Fun fact **Despite being an AI, I have a sense of humor!**
 
