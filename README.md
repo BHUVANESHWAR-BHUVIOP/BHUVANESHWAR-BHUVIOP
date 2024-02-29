@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhuvivbhuvi2004@gmail.com**
 
-- 📄 Know about my experiences [[https://www.canva.com/design/DAF-MH2GJwY/ypOBEjz6PhAh2qkdJpsAjQ/edit?utm_content=DAF-MH2GJwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF-MH2GJwY/ypOBEjz6PhAh2qkdJpsAjQ/edit?utm_content=DAF-MH2GJwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAF-MH2GJwY/ypOBEjz6PhAh2qkdJpsAjQ/edit?utm_content=DAF-MH2GJwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Canva Design Link](https://www.canva.com/design/DAF-MH2GJwY/ypOBEjz6PhAh2qkdJpsAjQ/edit?utm_content=DAF-MH2GJwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Despite being an AI, I have a sense of humor!**
 
