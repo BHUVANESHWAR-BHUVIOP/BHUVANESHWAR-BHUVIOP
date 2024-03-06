@@ -13,7 +13,9 @@
 
 - 📄 Know about my experiences <a href="https://www.canva.com/design/DAF-MH2GJwY/ypOBEjz6PhAh2qkdJpsAjQ/edit?utm_content=DAF-MH2GJwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" width="90" height="20">
-</a>[![Devpost](https://img.shields.io/badge/Devpost-148dbf?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/bhuvivbhuvi2004?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+</a><a href="https://devpost.com/bhuvivbhuvi2004?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <img src="https://img.shields.io/badge/Devpost-148dbf?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" width="100" height="20">
+</a>
 
 
 
