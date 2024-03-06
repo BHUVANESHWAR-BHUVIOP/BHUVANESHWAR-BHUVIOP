@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwar-bhuviop&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwar-bhuviop" /> </p>
 
 
-- 🌱 I’m currently learning **Data analytics with python**
+- 🌱 I’m currently learning **Data analytics with python and JLPT**
 
 - 💬 Ask me about **AI, Machine Learning, Python**
 
