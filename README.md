@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BHUVANESHWAR V</h1>
-<h3 align="center">I am a third-year Artificial Intelligence and Machine Learning student. Passionate about exploring the realms of AI and its applications.</h3>
+<h3 align="center">I am a Final-year Artificial Intelligence and Machine Learning student. Passionate about exploring the realms of AI and its applications.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwar-bhuviop&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwar-bhuviop" /> </p>
